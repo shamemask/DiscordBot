@@ -111,4 +111,4 @@ client.events = new Discord.Collection();
 })
 
 
-client.login("ODk1MzM2NDUyOTcwNDEwMTA0.YV3FDA.dsjRSUDeBmXwbIGUVkry272VX0c")
+client.login(process.env.BOT_TOKEN)
