@@ -13,3 +13,4 @@ https://discord.gg/jXybXbMcpG
 - .ping
 - .ub all
 - .unban
+- .rank
