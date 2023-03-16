@@ -1,5 +1,4 @@
 # DiscordBot
-https://discord.gg/jXybXbMcpG
 
 Рейтинговая система,
 возможность Бана анБана,
